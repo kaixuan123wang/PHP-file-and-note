@@ -9,8 +9,7 @@
 </head>
 <body>
 <?php
-$num = 36;
-echo $num;
+print_r($_SERVER);
 ?>
 </body>
 </html>
