@@ -17,7 +17,8 @@
 			height: 50px;
 			float: left;
 			margin-left: 5px;
-			background: #f00;
+			background: #ff0;
+			border: 1px solid #f00;
 			text-align: center;
 			line-height: 50px;
 			list-style: none;
@@ -43,8 +44,8 @@
 	<br/>
 	<div>
 	<?php
-	for($i=01;$i<1000;$i++){
-		if($i%20== 0){
+	for($i=01;$i<100;$i++){
+		if($i%10== 0){
 			?>
 			<br/>
 			<?php
