@@ -3,18 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="90d4342d-5602-4f61-a030-334753d40aa5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StudyBySelf/01.1.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/StudyBySelf/01.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/StudyBySelf/02.1calculating machine.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/StudyBySelf/03.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/StudyBySelf/1.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/StudyBySelf/1_1.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/StudyBySelf/1_2.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/StudyBySelf/3.1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/StudyBySelf/3.1.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/StudyBySelf/4.1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/StudyBySelf/4.1.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/StudyBySelf/5.1.php" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,10 +14,10 @@
     <session id="-382781385">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="27" />
+          <entry key="project.closed" value="30" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.24" value="1" />
-          <entry key="project.open.time.27" value="1" />
+          <entry key="project.open.time.27" value="3" />
           <entry key="project.open.time.28" value="2" />
           <entry key="project.open.time.29" value="1" />
           <entry key="project.open.time.30" value="3" />
@@ -41,10 +29,10 @@
           <entry key="project.open.time.35" value="1" />
           <entry key="project.open.time.36" value="1" />
           <entry key="project.open.time.37" value="1" />
-          <entry key="project.open.time.5" value="2" />
+          <entry key="project.open.time.5" value="3" />
           <entry key="project.open.time.6" value="2" />
-          <entry key="project.open.time.7" value="3" />
-          <entry key="project.opened" value="28" />
+          <entry key="project.open.time.7" value="4" />
+          <entry key="project.opened" value="32" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -52,14 +40,14 @@
           <entry key="html" value="2" />
           <entry key="md" value="2" />
           <entry key="module" value="2" />
-          <entry key="php" value="104" />
+          <entry key="php" value="124" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="HTML" value="2" />
           <entry key="Markdown" value="2" />
-          <entry key="PHP" value="106" />
+          <entry key="PHP" value="126" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -67,31 +55,31 @@
           <entry key="html" value="909" />
           <entry key="md" value="8" />
           <entry key="module" value="668" />
-          <entry key="php" value="16018" />
+          <entry key="php" value="21980" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="925" />
           <entry key="Markdown" value="8" />
-          <entry key="PHP" value="16670" />
+          <entry key="PHP" value="22632" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/StudyBySelf/VideoLesson/44.php">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/function/stringFunction/explode.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="103">
-              <caret line="13" column="51" lean-forward="true" selection-start-line="13" selection-start-column="51" selection-end-line="13" selection-end-column="51" />
+            <state relative-caret-position="276">
+              <caret line="12" column="14" lean-forward="true" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/StudyBySelf/VideoLesson/shape.class.php">
+        <entry file="file://$PROJECT_DIR$/function/stringFunction/ltrim.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="253">
               <caret line="11" column="13" lean-forward="true" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
@@ -100,58 +88,46 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/StudyBySelf/VideoLesson/result.class.php">
+        <entry file="file://$PROJECT_DIR$/function/stringFunction/nl2r.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="404">
-              <caret line="32" column="31" lean-forward="true" selection-start-line="32" selection-start-column="31" selection-end-line="32" selection-end-column="31" />
-              <folding>
-                <element signature="e#6#85#0#PHP" />
-              </folding>
+            <state relative-caret-position="184">
+              <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/StudyBySelf/VideoLesson/rect.class.php">
+        <entry file="file://$PROJECT_DIR$/function/stringFunction/strip_tags.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
-              <folding>
-                <element signature="e#6#85#0#PHP" />
-              </folding>
+            <state relative-caret-position="276">
+              <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/StudyBySelf/VideoLesson/triangle.class.php">
+        <entry file="file://$PROJECT_DIR$/function/stringFunction/htmlspecialchars.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="417">
-              <caret line="25" column="9" lean-forward="true" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
-              <folding>
-                <element signature="e#6#85#0#PHP" />
-              </folding>
+            <state relative-caret-position="253">
+              <caret line="11" column="28" lean-forward="true" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/StudyBySelf/VideoLesson/circle.class.php">
+        <entry file="file://$PROJECT_DIR$/function/stringFunction/strtilower.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="15" column="17" lean-forward="true" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
-              <folding>
-                <element signature="e#6#85#0#PHP" />
-              </folding>
+            <state relative-caret-position="276">
+              <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/StudyBySelf/VideoLesson/form.class.php">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/function/stringFunction/implode/join.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="516">
-              <caret line="49" column="26" lean-forward="true" selection-start-line="49" selection-start-column="26" selection-end-line="49" selection-end-column="26" />
+            <state relative-caret-position="207">
+              <caret line="14" column="10" lean-forward="true" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -171,28 +147,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/function/ArrayUdiffOssoc.php" />
-        <option value="$PROJECT_DIR$/function/ArrayUdiffAssoc.php" />
-        <option value="$PROJECT_DIR$/function/ArrayUdiffUassoc.php" />
-        <option value="$PROJECT_DIR$/function/ArrayUdiff.php" />
-        <option value="$PROJECT_DIR$/function/ArrayUintersectAssoc.php" />
-        <option value="$PROJECT_DIR$/function/ArrayUintersectUassoc.php" />
-        <option value="$PROJECT_DIR$/function/ArrayUintersect.php" />
-        <option value="$PROJECT_DIR$/function/ArrayUnique.php" />
-        <option value="$PROJECT_DIR$/function/ArrayUshift.php" />
-        <option value="$PROJECT_DIR$/function/ArrayWalkRecursive.php" />
-        <option value="$PROJECT_DIR$/function/ArrayWalk.php" />
-        <option value="$PROJECT_DIR$/function/Array.php" />
-        <option value="$PROJECT_DIR$/function/ArrayArsort.php" />
-        <option value="$PROJECT_DIR$/function/Arsort.php" />
-        <option value="$PROJECT_DIR$/function/Asort.php" />
-        <option value="$PROJECT_DIR$/function/Compact.php" />
-        <option value="$PROJECT_DIR$/function/Count.php" />
-        <option value="$PROJECT_DIR$/function/Current.php" />
-        <option value="$PROJECT_DIR$/function/each.php" />
-        <option value="$PROJECT_DIR$/function/End.php" />
-        <option value="$PROJECT_DIR$/function/Extract.php" />
-        <option value="$PROJECT_DIR$/function/Key.php" />
         <option value="$PROJECT_DIR$/function/Krsort.php" />
         <option value="$PROJECT_DIR$/function/Ksort.php" />
         <option value="$PROJECT_DIR$/function/List.php" />
@@ -222,6 +176,28 @@
         <option value="$PROJECT_DIR$/StudyBySelf/VideoLesson/shape.class.php" />
         <option value="$PROJECT_DIR$/StudyBySelf/VideoLesson/result.class.php" />
         <option value="$PROJECT_DIR$/StudyBySelf/VideoLesson/circle.class.php" />
+        <option value="$PROJECT_DIR$/StudyBySelf/VideoLesson/45.php" />
+        <option value="$PROJECT_DIR$/function/stringFunction/Strpos.php" />
+        <option value="$PROJECT_DIR$/function/stringFunction/submit.php" />
+        <option value="$PROJECT_DIR$/function/stringFunction/strrchr.php" />
+        <option value="$PROJECT_DIR$/function/stringFunction/str_irreplace.php" />
+        <option value="$PROJECT_DIR$/function/stringFunction/str_replace.php" />
+        <option value="$PROJECT_DIR$/function/stringFunction/strstr.php" />
+        <option value="$PROJECT_DIR$/function/stringFunction/strtr.php" />
+        <option value="$PROJECT_DIR$/function/stringFunction/substr_replace.php" />
+        <option value="$PROJECT_DIR$/function/stringFunction/strlen.php" />
+        <option value="$PROJECT_DIR$/function/stringFunction/strcmp.php" />
+        <option value="$PROJECT_DIR$/function/stringFunction/strnatcmp.php" />
+        <option value="$PROJECT_DIR$/function/stringFunction/str_split.php" />
+        <option value="$PROJECT_DIR$/function/stringFunction/split.php" />
+        <option value="$PROJECT_DIR$/function/stringFunction/explode.php" />
+        <option value="$PROJECT_DIR$/function/stringFunction/ltrim.php" />
+        <option value="$PROJECT_DIR$/function/stringFunction/chunk_split.php" />
+        <option value="$PROJECT_DIR$/function/stringFunction/n12br.php" />
+        <option value="$PROJECT_DIR$/function/stringFunction/strip_tags.php" />
+        <option value="$PROJECT_DIR$/function/stringFunction/htmlspecialchars.php" />
+        <option value="$PROJECT_DIR$/function/stringFunction/strtilower.php" />
+        <option value="$PROJECT_DIR$/function/stringFunction/implode/join.php" />
       </list>
     </option>
   </component>
@@ -232,10 +208,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="516" />
-    <option name="width" value="1940" />
-    <option name="height" value="1050" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="952" />
+    <option name="width" value="977" />
+    <option name="height" value="1038" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -255,13 +231,20 @@
             <path>
               <item name="PHP" type="b2602c69:ProjectViewProjectNode" />
               <item name="PHP" type="462c0819:PsiDirectoryNode" />
-              <item name="StudyBySelf" type="462c0819:PsiDirectoryNode" />
+              <item name="function" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PHP" type="b2602c69:ProjectViewProjectNode" />
               <item name="PHP" type="462c0819:PsiDirectoryNode" />
-              <item name="StudyBySelf" type="462c0819:PsiDirectoryNode" />
-              <item name="VideoLesson" type="462c0819:PsiDirectoryNode" />
+              <item name="function" type="462c0819:PsiDirectoryNode" />
+              <item name="stringFunction" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PHP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PHP" type="462c0819:PsiDirectoryNode" />
+              <item name="function" type="462c0819:PsiDirectoryNode" />
+              <item name="stringFunction" type="462c0819:PsiDirectoryNode" />
+              <item name="implode" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -333,16 +316,20 @@
       <workItem from="1537593933012" duration="5383000" />
       <workItem from="1537619192562" duration="3555000" />
       <workItem from="1537674726879" duration="6263000" />
+      <workItem from="1537702208887" duration="1611000" />
+      <workItem from="1537785017606" duration="3752000" />
+      <workItem from="1537794944131" duration="2989000" />
+      <workItem from="1537862547601" duration="10425000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68265000" />
+    <option name="totallyTimeSpent" value="87042000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="762" y="0" width="781" height="830" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.09450402" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25311205" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -371,26 +358,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/function/ArraySlice.php" />
-    <entry file="file://$PROJECT_DIR$/function/ArraySum.php" />
-    <entry file="file://$PROJECT_DIR$/function/ArraySplice.php" />
-    <entry file="file://$PROJECT_DIR$/function/ArrayUdiffAssoc.php" />
-    <entry file="file://$PROJECT_DIR$/function/ArrayUdiffUassoc.php" />
-    <entry file="file://$PROJECT_DIR$/function/ArrayUdiff.php" />
-    <entry file="file://$PROJECT_DIR$/function/ArrayUintersectAssoc.php" />
-    <entry file="file://$PROJECT_DIR$/function/ArrayUintersectUassoc.php" />
-    <entry file="file://$PROJECT_DIR$/function/ArrayUintersect.php" />
-    <entry file="file://$PROJECT_DIR$/function/ArrayUnique.php" />
-    <entry file="file://$PROJECT_DIR$/function/ArrayUnshift.php" />
-    <entry file="file://$PROJECT_DIR$/function/ArrayWalkRecursive.php" />
-    <entry file="file://$PROJECT_DIR$/function/ArrayWalk.php" />
-    <entry file="file://$PROJECT_DIR$/function/Array.php" />
-    <entry file="file://$PROJECT_DIR$/function/Arsort.php" />
-    <entry file="file://$PROJECT_DIR$/function/Asort.php" />
-    <entry file="file://$PROJECT_DIR$/function/Compact.php" />
-    <entry file="file://$PROJECT_DIR$/function/Count.php" />
-    <entry file="file://$PROJECT_DIR$/function/Current.php" />
-    <entry file="file://$PROJECT_DIR$/function/each.php" />
     <entry file="file://$PROJECT_DIR$/function/End.php" />
     <entry file="file://$PROJECT_DIR$/function/Extract.php" />
     <entry file="file://$PROJECT_DIR$/function/Key.php" />
@@ -447,64 +414,153 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/StudyBySelf/VideoLesson/form.class.php">
+    <entry file="file://$PROJECT_DIR$/StudyBySelf/VideoLesson/44.php" />
+    <entry file="file://$PROJECT_DIR$/StudyBySelf/VideoLesson/shape.class.php" />
+    <entry file="file://$PROJECT_DIR$/StudyBySelf/VideoLesson/result.class.php" />
+    <entry file="file://$PROJECT_DIR$/StudyBySelf/VideoLesson/rect.class.php" />
+    <entry file="file://$PROJECT_DIR$/StudyBySelf/VideoLesson/triangle.class.php" />
+    <entry file="file://$PROJECT_DIR$/StudyBySelf/VideoLesson/circle.class.php" />
+    <entry file="file://$PROJECT_DIR$/StudyBySelf/VideoLesson/form.class.php" />
+    <entry file="file://$PROJECT_DIR$/StudyBySelf/VideoLesson/45.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="516">
-          <caret line="49" column="26" lean-forward="true" selection-start-line="49" selection-start-column="26" selection-end-line="49" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/StudyBySelf/VideoLesson/triangle.class.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="417">
-          <caret line="25" column="9" lean-forward="true" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+        <state relative-caret-position="266">
+          <caret line="69" column="16" lean-forward="true" selection-start-line="69" selection-start-column="16" selection-end-line="69" selection-end-column="16" />
           <folding>
             <element signature="e#6#85#0#PHP" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/StudyBySelf/VideoLesson/rect.class.php">
+    <entry file="file://$PROJECT_DIR$/function/stringFunction/strrchr.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
-          <folding>
-            <element signature="e#6#85#0#PHP" />
-          </folding>
+        <state relative-caret-position="115">
+          <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/StudyBySelf/VideoLesson/shape.class.php">
+    <entry file="file://$PROJECT_DIR$/function/stringFunction/str_replace.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="11" lean-forward="true" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/function/stringFunction/strstr.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="19" column="26" lean-forward="true" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/function/stringFunction/substr.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="11" lean-forward="true" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/function/stringFunction/Strpos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="16" column="35" lean-forward="true" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/function/stringFunction/strtr.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/function/stringFunction/substr_replace.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="12" column="11" lean-forward="true" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/function/stringFunction/strlen.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/function/stringFunction/strcmp.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/function/stringFunction/strnatcmp.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="29" lean-forward="true" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/function/stringFunction/str_split.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="14" lean-forward="true" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/function/stringFunction/explode.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="14" lean-forward="true" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/function/stringFunction/chunk_split.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="11" lean-forward="true" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/function/stringFunction/ltrim.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="253">
           <caret line="11" column="13" lean-forward="true" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/StudyBySelf/VideoLesson/result.class.php">
+    <entry file="file://$PROJECT_DIR$/function/stringFunction/nl2r.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="404">
-          <caret line="32" column="31" lean-forward="true" selection-start-line="32" selection-start-column="31" selection-end-line="32" selection-end-column="31" />
-          <folding>
-            <element signature="e#6#85#0#PHP" />
-          </folding>
+        <state relative-caret-position="184">
+          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/StudyBySelf/VideoLesson/circle.class.php">
+    <entry file="file://$PROJECT_DIR$/function/stringFunction/strip_tags.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="15" column="17" lean-forward="true" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
-          <folding>
-            <element signature="e#6#85#0#PHP" />
-          </folding>
+        <state relative-caret-position="276">
+          <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/StudyBySelf/VideoLesson/44.php">
+    <entry file="file://$PROJECT_DIR$/function/stringFunction/htmlspecialchars.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="103">
-          <caret line="13" column="51" lean-forward="true" selection-start-line="13" selection-start-column="51" selection-end-line="13" selection-end-column="51" />
+        <state relative-caret-position="253">
+          <caret line="11" column="28" lean-forward="true" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/function/stringFunction/strtilower.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/function/stringFunction/implode/join.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="14" column="10" lean-forward="true" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
         </state>
       </provider>
     </entry>
