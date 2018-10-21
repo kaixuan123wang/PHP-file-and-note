@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="90d4342d-5602-4f61-a030-334753d40aa5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seeInfo.php" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,9 +14,9 @@
     <session id="-382781385">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="42" />
+          <entry key="project.closed" value="44" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.1" value="3" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.24" value="1" />
           <entry key="project.open.time.27" value="4" />
@@ -33,9 +32,9 @@
           <entry key="project.open.time.36" value="1" />
           <entry key="project.open.time.37" value="1" />
           <entry key="project.open.time.5" value="3" />
-          <entry key="project.open.time.6" value="2" />
+          <entry key="project.open.time.6" value="3" />
           <entry key="project.open.time.7" value="5" />
-          <entry key="project.opened" value="44" />
+          <entry key="project.opened" value="46" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -43,14 +42,14 @@
           <entry key="html" value="2" />
           <entry key="md" value="2" />
           <entry key="module" value="2" />
-          <entry key="php" value="137" />
+          <entry key="php" value="138" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="HTML" value="2" />
           <entry key="Markdown" value="2" />
-          <entry key="PHP" value="139" />
+          <entry key="PHP" value="140" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -58,14 +57,14 @@
           <entry key="html" value="909" />
           <entry key="md" value="8" />
           <entry key="module" value="668" />
-          <entry key="php" value="24332" />
+          <entry key="php" value="25937" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="925" />
           <entry key="Markdown" value="8" />
-          <entry key="PHP" value="24984" />
+          <entry key="PHP" value="26589" />
         </counts>
       </usages-collector>
     </session>
@@ -73,10 +72,20 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/SchoolLesson/php0930/P111show.php">
+        <entry file="file://$PROJECT_DIR$/2.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="598">
-              <caret line="32" column="11" lean-forward="true" selection-start-line="32" selection-start-column="11" selection-end-line="32" selection-end-column="11" />
+            <state relative-caret-position="563">
+              <caret line="209" column="5" lean-forward="true" selection-start-line="209" selection-start-column="5" selection-end-line="209" selection-end-column="5" />
+              <folding>
+                <element signature="n#datalist#0;n#li#0;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#datalist#0;n#li#1;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#datalist#0;n#li#3;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#datalist#0;n#li#4;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#datalist#0;n#li#4;n#ul#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#datalist#0;n#li#5;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#datalist#0;n#li#6;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#datalist#0;n#li#7;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -96,7 +105,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/function/Rsort.php" />
         <option value="$PROJECT_DIR$/function/Shuffle.php" />
         <option value="$PROJECT_DIR$/function/Sort.php" />
         <option value="$PROJECT_DIR$/function/Uasort.php" />
@@ -147,6 +155,7 @@
         <option value="$PROJECT_DIR$/SchoolLesson/php0930/P111show.php" />
         <option value="$PROJECT_DIR$/SchoolLesson/php0930/P111.php" />
         <option value="$PROJECT_DIR$/seeInfo.php" />
+        <option value="$PROJECT_DIR$/2.php" />
       </list>
     </option>
   </component>
@@ -198,7 +207,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="G:/大二/php/php0925" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="copyright.filetypes.PHP" />
@@ -274,16 +283,18 @@
       <workItem from="1538723852961" duration="1366000" />
       <workItem from="1539322436434" duration="1246000" />
       <workItem from="1539347574521" duration="21000" />
+      <workItem from="1540006913957" duration="464000" />
+      <workItem from="1540007427897" duration="7680000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="105772000" />
+    <option name="totallyTimeSpent" value="113916000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11461126" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.117292225" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -312,7 +323,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/function/Range.php" />
     <entry file="file://$PROJECT_DIR$/function/Reset.php" />
     <entry file="file://$PROJECT_DIR$/function/Rsort.php" />
     <entry file="file://$PROJECT_DIR$/function/Shuffle.php" />
@@ -553,7 +563,24 @@
     <entry file="file://$PROJECT_DIR$/SchoolLesson/php0930/P111show.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="598">
-          <caret line="32" column="11" lean-forward="true" selection-start-line="32" selection-start-column="11" selection-end-line="32" selection-end-column="11" />
+          <caret line="32" column="11" selection-start-line="32" selection-start-column="11" selection-end-line="32" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="563">
+          <caret line="209" column="5" lean-forward="true" selection-start-line="209" selection-start-column="5" selection-end-line="209" selection-end-column="5" />
+          <folding>
+            <element signature="n#datalist#0;n#li#0;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#datalist#0;n#li#1;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#datalist#0;n#li#3;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#datalist#0;n#li#4;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#datalist#0;n#li#4;n#ul#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#datalist#0;n#li#5;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#datalist#0;n#li#6;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#datalist#0;n#li#7;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" />
+          </folding>
         </state>
       </provider>
     </entry>
