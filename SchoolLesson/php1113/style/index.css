@@ -1,0 +1,37 @@
+/*
+* @Author: lenovo
+* @Date:   2018-11-13 08:01:33
+* @Last Modified by:   lenovo
+* @Last Modified time: 2018-11-13 08:01:35
+*/
+	article{
+				margin: 10px auto;
+			}
+            article form ul li{
+                width: 100%;
+                border-top:1px dashed #999;
+                border-bottom: 1px dashed #999;
+                border-collapse: collapse;
+            }
+			article form p{
+				display: flex;
+				flex-flow: row nowrap;
+				justify-content: space-between;
+                margin:5px auto;
+                width: 25%;
+			}
+			article form p label{
+				display: inline-block;
+				width: 80px;
+				text-align: right;
+			}
+			article form p input{
+				width: 150px;
+			}
+			article form .but{
+				margin: 5px auto;
+				width: 10%;
+			}
+			article form .but input{
+				width: 50px;
+			}

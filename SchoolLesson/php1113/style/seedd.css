@@ -1,0 +1,22 @@
+/*
+* @Author: lenovo
+* @Date:   2018-11-13 08:02:09
+* @Last Modified by:   lenovo
+* @Last Modified time: 2018-11-13 08:02:11
+*/
+*{
+            margin: 0;
+            padding: 0;
+        }
+        table{
+            width: 100%;
+            margin:0 auto;
+            text-align: center;
+        }
+        .head{
+            background: #999;
+            color:#fff;
+        }
+        .button{
+            text-align: right;
+        }

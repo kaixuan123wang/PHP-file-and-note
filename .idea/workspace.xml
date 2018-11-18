@@ -33,7 +33,7 @@
     <session id="-382781385">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="60" />
+          <entry key="project.closed" value="75" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="4" />
           <entry key="project.open.time.10" value="2" />
@@ -41,61 +41,73 @@
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.14" value="1" />
-          <entry key="project.open.time.24" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.24" value="2" />
           <entry key="project.open.time.27" value="6" />
-          <entry key="project.open.time.28" value="4" />
+          <entry key="project.open.time.28" value="6" />
           <entry key="project.open.time.29" value="5" />
-          <entry key="project.open.time.30" value="4" />
+          <entry key="project.open.time.30" value="6" />
           <entry key="project.open.time.31" value="2" />
           <entry key="project.open.time.315" value="1" />
           <entry key="project.open.time.32" value="4" />
           <entry key="project.open.time.33" value="4" />
-          <entry key="project.open.time.34" value="3" />
+          <entry key="project.open.time.34" value="4" />
           <entry key="project.open.time.35" value="1" />
           <entry key="project.open.time.36" value="1" />
           <entry key="project.open.time.37" value="1" />
           <entry key="project.open.time.5" value="3" />
-          <entry key="project.open.time.6" value="4" />
-          <entry key="project.open.time.7" value="5" />
-          <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="63" />
+          <entry key="project.open.time.6" value="5" />
+          <entry key="project.open.time.61" value="1" />
+          <entry key="project.open.time.7" value="6" />
+          <entry key="project.open.time.8" value="3" />
+          <entry key="project.open.time.9" value="3" />
+          <entry key="project.opened" value="78" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="cats" value="3" />
-          <entry key="html" value="2" />
-          <entry key="md" value="2" />
+          <entry key="html" value="4" />
+          <entry key="md" value="4" />
           <entry key="module" value="2" />
-          <entry key="php" value="167" />
+          <entry key="php" value="178" />
           <entry key="products" value="2" />
           <entry key="sql" value="6" />
+          <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Database Element" value="5" />
-          <entry key="HTML" value="2" />
-          <entry key="Markdown" value="2" />
-          <entry key="PHP" value="169" />
+          <entry key="HTML" value="4" />
+          <entry key="Markdown" value="4" />
+          <entry key="PHP" value="180" />
+          <entry key="PLAIN_TEXT" value="1" />
           <entry key="Scratch" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="909" />
+          <entry key="html" value="1221" />
           <entry key="md" value="8" />
           <entry key="module" value="668" />
-          <entry key="php" value="32832" />
+          <entry key="php" value="39357" />
           <entry key="sql" value="99" />
+          <entry key="txt" value="20" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="925" />
+          <entry key="HTML" value="1237" />
           <entry key="Markdown" value="8" />
-          <entry key="PHP" value="33484" />
+          <entry key="PHP" value="40009" />
+          <entry key="PLAIN_TEXT" value="20" />
           <entry key="Scratch" value="99" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.php.new.class">
+        <counts>
+          <entry key="PHP Class.type" value="1" />
         </counts>
       </usages-collector>
     </session>
@@ -103,19 +115,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/StudyBySelf/VideoLesson/52/1.php">
+        <entry file="file://$PROJECT_DIR$/spider/1.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="9" column="2" lean-forward="true" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+            <state relative-caret-position="276">
+              <caret line="12" column="14" lean-forward="true" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/StudyBySelf/VideoLesson/52/2.php">
+        <entry file="file://$PROJECT_DIR$/StudyBySelf/VideoLesson/62/1.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="311">
-              <caret line="36" column="22" lean-forward="true" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="22" />
+            <state relative-caret-position="345">
+              <caret line="15" column="14" lean-forward="true" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/filter.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -140,18 +161,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/function/stringFunction/strrchr.php" />
-        <option value="$PROJECT_DIR$/function/stringFunction/str_irreplace.php" />
-        <option value="$PROJECT_DIR$/function/stringFunction/str_replace.php" />
-        <option value="$PROJECT_DIR$/function/stringFunction/strstr.php" />
-        <option value="$PROJECT_DIR$/function/stringFunction/strtr.php" />
-        <option value="$PROJECT_DIR$/function/stringFunction/substr_replace.php" />
-        <option value="$PROJECT_DIR$/function/stringFunction/strlen.php" />
-        <option value="$PROJECT_DIR$/function/stringFunction/strcmp.php" />
-        <option value="$PROJECT_DIR$/function/stringFunction/strnatcmp.php" />
-        <option value="$PROJECT_DIR$/function/stringFunction/str_split.php" />
-        <option value="$PROJECT_DIR$/function/stringFunction/split.php" />
-        <option value="$PROJECT_DIR$/function/stringFunction/explode.php" />
         <option value="$PROJECT_DIR$/function/stringFunction/ltrim.php" />
         <option value="$PROJECT_DIR$/function/stringFunction/chunk_split.php" />
         <option value="$PROJECT_DIR$/function/stringFunction/n12br.php" />
@@ -191,6 +200,18 @@
         <option value="$PROJECT_DIR$/SchoolLesson/mingri/header.php" />
         <option value="$PROJECT_DIR$/StudyBySelf/VideoLesson/52/1.php" />
         <option value="$PROJECT_DIR$/StudyBySelf/VideoLesson/52/2.php" />
+        <option value="$PROJECT_DIR$/StudyBySelf/VideoLesson/53/1.php" />
+        <option value="$PROJECT_DIR$/StudyBySelf/VideoLesson/54/1.php" />
+        <option value="$PROJECT_DIR$/StudyBySelf/VideoLesson/55/1.php" />
+        <option value="$PROJECT_DIR$/StudyBySelf/VideoLesson/56/1.php" />
+        <option value="$PROJECT_DIR$/StudyBySelf/VideoLesson/56/upload_file.php" />
+        <option value="$PROJECT_DIR$/StudyBySelf/VideoLesson/56/1.html" />
+        <option value="$PROJECT_DIR$/StudyBySelf/VideoLesson/57/1.php" />
+        <option value="$PROJECT_DIR$/StudyBySelf/VideoLesson/58/form.html" />
+        <option value="$PROJECT_DIR$/StudyBySelf/VideoLesson/58/FileUpload.php" />
+        <option value="$PROJECT_DIR$/StudyBySelf/VideoLesson/58/upload.php" />
+        <option value="$PROJECT_DIR$/spider/1.php" />
+        <option value="$PROJECT_DIR$/StudyBySelf/VideoLesson/62/1.php" />
       </list>
     </option>
   </component>
@@ -214,7 +235,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -233,17 +253,11 @@
               <item name="StudyBySelf" type="462c0819:PsiDirectoryNode" />
               <item name="VideoLesson" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="PHP" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PHP" type="462c0819:PsiDirectoryNode" />
-              <item name="StudyBySelf" type="462c0819:PsiDirectoryNode" />
-              <item name="VideoLesson" type="462c0819:PsiDirectoryNode" />
-              <item name="52" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -254,7 +268,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="copyright.filetypes.PHP" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -346,16 +360,31 @@
       <workItem from="1541850845979" duration="4507000" />
       <workItem from="1541938942639" duration="2875000" />
       <workItem from="1542022520081" duration="4309000" />
+      <workItem from="1542060471013" duration="633000" />
+      <workItem from="1542097476752" duration="246000" />
+      <workItem from="1542167988987" duration="4690000" />
+      <workItem from="1542182025050" duration="79000" />
+      <workItem from="1542184537916" duration="4734000" />
+      <workItem from="1542232931097" duration="3353000" />
+      <workItem from="1542341555057" duration="8853000" />
+      <workItem from="1542361573108" duration="8246000" />
+      <workItem from="1542423816803" duration="150000" />
+      <workItem from="1542441339157" duration="346000" />
+      <workItem from="1542443398442" duration="930000" />
+      <workItem from="1542454159345" duration="91000" />
+      <workItem from="1542454275857" duration="2570000" />
+      <workItem from="1542456903533" duration="1352000" />
+      <workItem from="1542529509382" duration="2760000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="158933000" />
+    <option name="totallyTimeSpent" value="197966000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="762" y="0" width="781" height="830" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2821577" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2987552" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -385,111 +414,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/function/stringFunction/Strpos.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="16" column="35" lean-forward="true" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/function/stringFunction/strtr.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/function/stringFunction/substr_replace.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="12" column="11" lean-forward="true" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/function/stringFunction/strlen.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/function/stringFunction/strcmp.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/function/stringFunction/strnatcmp.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="13" column="29" lean-forward="true" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/function/stringFunction/str_split.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="12" column="14" lean-forward="true" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/function/stringFunction/chunk_split.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="12" column="11" lean-forward="true" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/function/stringFunction/explode.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/function/stringFunction/ltrim.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="11" column="13" lean-forward="true" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/function/stringFunction/nl2r.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/function/stringFunction/strip_tags.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/function/stringFunction/htmlspecialchars.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="11" column="28" lean-forward="true" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/function/stringFunction/strtilower.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/function/stringFunction/implode/join.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="15" column="10" lean-forward="true" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/StudyBySelf/VideoLesson/48/1.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="322">
@@ -578,7 +502,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/filter.php" />
     <entry file="file://$PROJECT_DIR$/conn1.php" />
     <entry file="file://$PROJECT_DIR$/index.php" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/321881ac-e3ca-4a8d-9bf5-0f2373f1cfa8/console_2.sql">
@@ -679,14 +602,130 @@
     <entry file="file://$PROJECT_DIR$/StudyBySelf/VideoLesson/52/1.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="207">
-          <caret line="9" column="2" lean-forward="true" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudyBySelf/VideoLesson/53/1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="14" lean-forward="true" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/StudyBySelf/VideoLesson/52/2.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="311">
+        <state relative-caret-position="603">
           <caret line="36" column="22" lean-forward="true" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudyBySelf/VideoLesson/54/test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="26" lean-forward="true" selection-start-column="26" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudyBySelf/VideoLesson/54/1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudyBySelf/VideoLesson/55/1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="66" column="5" lean-forward="true" selection-start-line="66" selection-start-column="5" selection-end-line="66" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudyBySelf/VideoLesson/56/1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudyBySelf/VideoLesson/56/upload_file.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudyBySelf/VideoLesson/56/1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudyBySelf/VideoLesson/57/1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="10" column="21" lean-forward="true" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SchoolLesson/php2/02note8.28.11.05.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SchoolLesson/php1/01note8.27.9.36.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="184">
+            <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudyBySelf/VideoLesson/58/FileUpload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="165" column="13" selection-start-line="165" selection-start-column="13" selection-end-line="165" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudyBySelf/VideoLesson/58/form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudyBySelf/VideoLesson/58/upload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="46" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spider/1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="14" lean-forward="true" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/filter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudyBySelf/VideoLesson/62/1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="14" lean-forward="true" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
         </state>
       </provider>
     </entry>

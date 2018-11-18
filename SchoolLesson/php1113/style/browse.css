@@ -1,0 +1,51 @@
+/*
+* @Author: lenovo
+* @Date:   2018-11-13 07:59:25
+* @Last Modified by:   lenovo
+* @Last Modified time: 2018-11-13 07:59:31
+*/
+ *{
+            margin: 0;
+            padding: 0;
+        }
+        a{
+            text-decoration: none;
+            color:#000;
+        }
+        table{
+            position: relative;
+
+            margin:0 auto;
+            width: 95%;
+        }
+        table tr{
+            height: 40px;
+            text-align: center;
+        }
+        .head{
+            background: #999;
+        }
+        .id{
+            width: 5%;
+        }
+        .name{
+            width: 30%;
+        }
+        .price{
+            width: 10%;
+        }
+        .time{
+            width:30%;
+        }
+        .kind{
+            width: 10%;
+        }
+        .do{
+            width:10%
+        }
+        .sel{
+            width: 5%;
+        }
+        .allDel{
+            text-align: left;
+        }
