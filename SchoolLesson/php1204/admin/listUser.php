@@ -1,0 +1,34 @@
+<?php 
+	include("conn.php");
+	$sql = "slelct * from tb_user";
+	$result = mysql_query($sql);
+ ?>
+ <!DOCTYPE html>
+ <html lang="en">
+ <head>
+ 	<meta charset="UTF-8">
+ 	<title>Document</title>
+ </head>
+ <body>
+ 	<table>
+ 		<tr>
+ 			<td>id</td>
+ 			<td>用户名</td>
+ 			<td>密码</td>
+ 			<td>修改</td>
+ 			<td>删除</td>
+ 		</tr>
+ 		<?php 
+ 			for($arr = mysql_fetch_array($result)){
+ 		?>
+ 		<tr>
+ 			<td><?php echo $arr["0"]?></td>
+ 			<td><?php echo $arr["1"]?></td>
+ 			<td><?php echo $arr["2"]?></td>
+ 			<td><a href="#">修改</a></td>
+ 			<td><a href="#">删除</a></td>
+ 		</tr>
+ 		<?php } ?>
+ 	</table>
+ </body>
+ </html>

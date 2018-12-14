@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="90d4342d-5602-4f61-a030-334753d40aa5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/bl.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idCard.php" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,7 +35,7 @@
     <session id="-382781385">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="79" />
+          <entry key="project.closed" value="82" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="4" />
           <entry key="project.open.time.10" value="2" />
@@ -46,22 +48,23 @@
           <entry key="project.open.time.27" value="6" />
           <entry key="project.open.time.28" value="6" />
           <entry key="project.open.time.29" value="6" />
-          <entry key="project.open.time.30" value="7" />
+          <entry key="project.open.time.30" value="8" />
           <entry key="project.open.time.31" value="2" />
           <entry key="project.open.time.315" value="1" />
-          <entry key="project.open.time.32" value="4" />
+          <entry key="project.open.time.32" value="5" />
           <entry key="project.open.time.33" value="5" />
           <entry key="project.open.time.34" value="4" />
           <entry key="project.open.time.35" value="1" />
           <entry key="project.open.time.36" value="1" />
           <entry key="project.open.time.37" value="1" />
+          <entry key="project.open.time.47" value="1" />
           <entry key="project.open.time.5" value="3" />
           <entry key="project.open.time.6" value="5" />
           <entry key="project.open.time.61" value="1" />
           <entry key="project.open.time.7" value="6" />
           <entry key="project.open.time.8" value="3" />
           <entry key="project.open.time.9" value="4" />
-          <entry key="project.opened" value="82" />
+          <entry key="project.opened" value="85" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -70,7 +73,7 @@
           <entry key="html" value="4" />
           <entry key="md" value="4" />
           <entry key="module" value="2" />
-          <entry key="php" value="185" />
+          <entry key="php" value="187" />
           <entry key="products" value="2" />
           <entry key="sql" value="7" />
           <entry key="txt" value="1" />
@@ -81,7 +84,7 @@
           <entry key="Database Element" value="5" />
           <entry key="HTML" value="4" />
           <entry key="Markdown" value="4" />
-          <entry key="PHP" value="187" />
+          <entry key="PHP" value="189" />
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="Scratch" value="7" />
         </counts>
@@ -91,7 +94,7 @@
           <entry key="html" value="1221" />
           <entry key="md" value="8" />
           <entry key="module" value="668" />
-          <entry key="php" value="42105" />
+          <entry key="php" value="42728" />
           <entry key="sql" value="99" />
           <entry key="txt" value="20" />
         </counts>
@@ -100,7 +103,7 @@
         <counts>
           <entry key="HTML" value="1237" />
           <entry key="Markdown" value="8" />
-          <entry key="PHP" value="42757" />
+          <entry key="PHP" value="43380" />
           <entry key="PLAIN_TEXT" value="20" />
           <entry key="Scratch" value="99" />
         </counts>
@@ -135,14 +138,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SQLandPHP/10/page.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="474">
-              <caret line="56" column="21" lean-forward="true" selection-start-line="56" selection-start-column="21" selection-end-line="56" selection-end-column="21" />
+            <state relative-caret-position="1173">
+              <caret line="56" column="21" selection-start-line="56" selection-start-column="21" selection-end-line="56" selection-end-column="21" />
               <folding>
                 <element signature="e#6#85#0#PHP" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/bl.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="23" column="24" lean-forward="true" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -167,8 +179,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/function/stringFunction/strip_tags.php" />
-        <option value="$PROJECT_DIR$/function/stringFunction/htmlspecialchars.php" />
         <option value="$PROJECT_DIR$/function/stringFunction/strtilower.php" />
         <option value="$PROJECT_DIR$/function/stringFunction/implode/join.php" />
         <option value="$PROJECT_DIR$/StudyBySelf/VideoLesson/48/1.php" />
@@ -218,6 +228,8 @@
         <option value="$PROJECT_DIR$/StudyBySelf/VideoLesson/64/1.php" />
         <option value="$PROJECT_DIR$/SQLandPHP/10/demo.php" />
         <option value="$PROJECT_DIR$/SQLandPHP/10/page.php" />
+        <option value="$PROJECT_DIR$/bl.php" />
+        <option value="$PROJECT_DIR$/blp.php" />
       </list>
     </option>
   </component>
@@ -228,8 +240,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
-  <component name="ProjectFrameBounds">
-    <option name="x" value="950" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="5" />
     <option name="width" value="980" />
     <option name="height" value="1040" />
   </component>
@@ -249,17 +262,6 @@
               <item name="PHP" type="b2602c69:ProjectViewProjectNode" />
               <item name="PHP" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="PHP" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PHP" type="462c0819:PsiDirectoryNode" />
-              <item name="SQLandPHP" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PHP" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PHP" type="462c0819:PsiDirectoryNode" />
-              <item name="SQLandPHP" type="462c0819:PsiDirectoryNode" />
-              <item name="10" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -271,7 +273,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="database.console.LAST_STATE" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../innn" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../shixun" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
@@ -385,16 +387,20 @@
       <workItem from="1542977475751" duration="8000" />
       <workItem from="1543195588036" duration="5628000" />
       <workItem from="1543203548034" duration="119000" />
+      <workItem from="1543531910804" duration="6131000" />
+      <workItem from="1543875148677" duration="645000" />
+      <workItem from="1543918680736" duration="823000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="208337000" />
+    <option name="totallyTimeSpent" value="215936000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="760" y="0" width="784" height="832" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3140496" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16085792" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -424,8 +430,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/StudyBySelf/VideoLesson/51/1.php" />
-    <entry file="file://$PROJECT_DIR$/SchoolLesson/4.php" />
     <entry file="file://$PROJECT_DIR$/SchoolLesson/php0930/P111.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
@@ -718,6 +722,7 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/blp.php" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/321881ac-e3ca-4a8d-9bf5-0f2373f1cfa8/console.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="23">
@@ -737,11 +742,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/SQLandPHP/10/page.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="474">
-          <caret line="56" column="21" lean-forward="true" selection-start-line="56" selection-start-column="21" selection-end-line="56" selection-end-column="21" />
+        <state relative-caret-position="1173">
+          <caret line="56" column="21" selection-start-line="56" selection-start-column="21" selection-end-line="56" selection-end-column="21" />
           <folding>
             <element signature="e#6#85#0#PHP" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="23" column="24" lean-forward="true" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
         </state>
       </provider>
     </entry>
