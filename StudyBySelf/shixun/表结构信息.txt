@@ -18,12 +18,10 @@ create table adminUser(
 uid int(255) not null primary key auto_increment,
 user varchar(33) not null,
 pwd varchar(100) not null,
-nickName varchar(100) not null,
-image varchar(255) not null,
-sex char(10) not null,
-explains varchar(255) not null,
-email varchar(100) not null,
-qq varchar(255) not null
+nickName varchar(100) not null default '管理员',
+sex char(10) not null default '保密',
+email varchar(100) not null default '无',
+qq varchar(255) not null default '无'
 );
 
 公告表
@@ -41,13 +39,14 @@ title varchar(100) not null,
 content text not null,
 type varchar(20) not null,
 actorId int(255) not null,
-time datetime not null
+time datetime not null，
+seeNum  int(255)     NO      | 0
 );
 评论表
 create table observe(
 id int(255) not null primary key auto_increment,
 articleId int(255) not null,
-observerid int(255) not null,
+observerId int(255) not null,
 content text not null,
 time datetime not null
 );

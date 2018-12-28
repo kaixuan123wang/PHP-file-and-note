@@ -4,10 +4,10 @@ session_start();
 if(isset($_POST["modifi_sbt"])){
     include ("admin/conn.php");
     $uid = $_SESSION["uid"];
-    $nickName = $_POST["nickName"];
+    $nickName = trim(htmlentities($_POST["nickName"],ENT_QUOTES,"UTF-8"));
     $sex = $_POST["sex"];
-    $explains = $_POST["explains"];
-    $email = $_POST["email"];
+    $explains = trim(htmlentities($_POST["explains"],ENT_QUOTES,"UTF-8"));  
+    $email = htmlentities($_POST["email"],ENT_QUOTES,"UTF-8");
     $qq = $_POST["qq"];
     $sql = "update touristUser set nickName = '$nickName',sex = '$sex',explains = '$explains',email = '$email',qq = '$qq' where uid = '$uid'";
     $result = mysql_query($sql);

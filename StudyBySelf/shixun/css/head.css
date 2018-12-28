@@ -1,0 +1,128 @@
+*{
+            margin: 0;
+            padding: 0;
+            font-size: 1vw;
+        }
+
+        .head {
+            display: flex;
+            flex-flow: row nowrap;
+            justify-content: space-between;
+            width: 98%;
+            height: 6vw;
+            margin-left: 1%;
+            margin-right: 1%;
+            background-attachment: fixed;
+            background: url('../images/headerBg.jpg') center center no-repeat;
+            background-size: 100%,100vw;
+            min-height: 40px;
+        }
+
+        .head .logo img {
+            width:6vw;
+            height: 6vw;
+            min-height: 40px;
+            min-width: 40px;
+            margin-left: 2vw;
+        }
+
+        .head .login {
+            height: 5vw;
+            margin-right: 1vw;
+        }
+
+        .head .login form {
+            line-height: 1vw;
+        }
+
+        .head input {
+            width: 7vw;
+            height: 1vw;
+            margin-right: 10px;
+        }
+
+        .head .login form .sbt {
+            width: 12vw;
+            min-width: 90px;
+            text-align: right;
+        }
+
+        .head .login form .sbt input {
+            width: 4vw;
+            height: 1.8vw;
+            min-height: 15px;
+            min-width: 30px;
+            margin-top: 0.1vw;
+            font-size: 1vw;
+        }
+
+        .head .login form p label {
+            display: inline-block;
+            width: 4vw;
+            min-width: 40px;
+            margin-top: 0.5vw;
+            text-align: right;
+        }
+        .head .logined{
+            display: flex;
+            flex-flow: row nowrap;
+            justify-content: space-around;
+            width: 15%;
+            min-width: 150px;
+        }
+        .head .logined .user{
+            height: 5vw;
+            line-height: 2vw;
+            margin-top: 10px;
+        }
+        .head .logined .user span{
+            color:#000;
+        }
+        .head .logined .user p{
+            text-decoration: underline;
+            margin-bottom: 5px;
+        }
+        .head .logined .headImage{
+            line-height: 2vw;
+        }
+        .head .logined .headImage img{
+            width: 5vw;
+            height: 5vw;
+        }
+        .head .logined .quit{
+            color:#00f;
+            margin-left: 1vw;
+        }
+        .nav {
+            width: 100%;
+        }
+
+        .nav ul {
+            display: flex;
+            flex-flow: row nowrap;
+            justify-content: center;
+            margin: 0 1%;
+            list-style: none;
+            background: linear-gradient(rgba(207,228,233,.5),rgba(173, 212, 219, 1), rgba(207,228,233,.5));
+        }
+
+        .nav ul li {
+            width: 14%;
+            height: 3vw;
+            min-height: 15px;
+            text-align: center;
+        }
+
+        .nav ul li a {
+            display: inline-block;
+            width: 100%;
+            height: 3vw;
+            min-height: 15px;
+            line-height: 3vw;
+            text-decoration: none;
+            color: #000;
+            font-size: 1vw;
+        }
+        .nav a:hover{
+            text-decoration: underline;
+                  }

@@ -1,0 +1,116 @@
+*{
+            margin: 0;
+            padding: 0;
+        }
+        li{
+            list-style: none;
+        }
+        .all .up{
+            display: flex;
+            flex-flow:row nowrap;
+            justify-content: center;
+            width: 96%;
+            min-height: 600px;
+            margin:5px auto;
+        }
+        .all .up .left{
+            width: 20%;
+            border:1px solid #000;
+            text-align: center;
+        }
+        .all .up .left img{
+             width: 8vw;
+             height: 8vw;
+            margin-top: 10vw;
+         }
+        .all .up .left p{
+            margin:30px auto;
+        }
+        .all .up .right{
+            width: 80%;
+            height: 100%;
+            min-height: 600px;
+            border:1px solid #000;
+        }
+        .all .up .right .header{
+            display: flex;
+            flex-flow:row nowrap;
+            justify-content: space-between;
+            width: 100%;
+            height: 80px;
+            border-bottom: 1px solid #000;
+        }
+        .all .up .right .header h2{
+            line-height: 80px;
+            margin-left: 20px;
+        }
+        .all .up .right .header time{
+            margin-top: 60px;
+            margin-right: 1vw;
+            color: #cccccc;
+            font-size: 1vw;
+        }
+        .all .up .right .content{
+            margin:10px;
+        }
+        .all .up .right .content p{
+            text-indent: 2em;
+            max-height: 100%;
+        }
+        .all .up .right .content span{
+            word-wrap: break-word;
+            word-break: break-all;
+            white-space: pre-wrap !important;
+            max-height: 100%;
+        }
+        .down{
+            width: 96%;
+            margin: 5px auto;
+        }
+        .down ul li .textarea{
+            text-align: center;
+        }
+        .down ul li .textarea textarea{
+            width: 100%;
+            border-radius: 5px;
+            resize: none;
+        }
+        .down ul li .obs_sbt{
+            text-align: right;
+        }
+        .down ul li .obs_sbt input{
+            width:100px;
+            height: 30px;
+            text-align: center;
+            background: #f00;
+            border: 1px #f00 solid;
+            color: #fff;
+            border-radius: 5px;
+        }
+        .down ul li{
+            margin: 10px;
+            padding: 5px;
+            border-bottom: 1px dashed #999;
+        }
+        .down ul li .top p a img{
+            width: 40px;
+            height: 40px;
+            border-radius: 90px;
+        }
+        .down ul li .top p a{
+            display: inline-block;
+            line-height: 50px;
+        }
+        .down ul li .observe{
+            display: flex;
+            flex-flow: column nowrap;
+            text-justify: space-around;
+        }
+        .down ul li .observe p{
+            margin-left: 50px;
+        }
+        .down ul li .observe time{
+            color: #ccc;
+            font-size: 10px;
+            text-align: right;
+        }

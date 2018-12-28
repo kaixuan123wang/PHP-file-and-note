@@ -2,7 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="90d4342d-5602-4f61-a030-334753d40aa5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StudyBySelf/shixun/addContent.php" beforeDir="false" afterPath="$PROJECT_DIR$/StudyBySelf/shixun/addContent.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StudyBySelf/shixun/alter.php" beforeDir="false" afterPath="$PROJECT_DIR$/StudyBySelf/shixun/alter.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StudyBySelf/shixun/code.php" beforeDir="false" afterPath="$PROJECT_DIR$/StudyBySelf/shixun/code.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StudyBySelf/shixun/head.php" beforeDir="false" afterPath="$PROJECT_DIR$/StudyBySelf/shixun/head.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StudyBySelf/shixun/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/StudyBySelf/shixun/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StudyBySelf/shixun/information.php" beforeDir="false" afterPath="$PROJECT_DIR$/StudyBySelf/shixun/information.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StudyBySelf/shixun/md5.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StudyBySelf/shixun/modifi.php" beforeDir="false" afterPath="$PROJECT_DIR$/StudyBySelf/shixun/modifi.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StudyBySelf/shixun/register.php" beforeDir="false" afterPath="$PROJECT_DIR$/StudyBySelf/shixun/register.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StudyBySelf/shixun/updateImg_finish.php" beforeDir="false" afterPath="$PROJECT_DIR$/StudyBySelf/shixun/updateImg_finish.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StudyBySelf/shixun/新建文本文档 (2).txt" beforeDir="false" afterPath="$PROJECT_DIR$/StudyBySelf/shixun/新建文本文档 (2).txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,203 +41,40 @@
     </expand>
     <select />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-382781385">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="84" />
-          <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.1" value="4" />
-          <entry key="project.open.time.10" value="2" />
-          <entry key="project.open.time.11" value="3" />
-          <entry key="project.open.time.12" value="1" />
-          <entry key="project.open.time.13" value="1" />
-          <entry key="project.open.time.14" value="1" />
-          <entry key="project.open.time.2" value="1" />
-          <entry key="project.open.time.24" value="2" />
-          <entry key="project.open.time.27" value="6" />
-          <entry key="project.open.time.28" value="6" />
-          <entry key="project.open.time.29" value="6" />
-          <entry key="project.open.time.30" value="8" />
-          <entry key="project.open.time.31" value="2" />
-          <entry key="project.open.time.315" value="1" />
-          <entry key="project.open.time.32" value="5" />
-          <entry key="project.open.time.33" value="5" />
-          <entry key="project.open.time.34" value="4" />
-          <entry key="project.open.time.35" value="1" />
-          <entry key="project.open.time.36" value="1" />
-          <entry key="project.open.time.37" value="1" />
-          <entry key="project.open.time.4" value="1" />
-          <entry key="project.open.time.47" value="1" />
-          <entry key="project.open.time.5" value="3" />
-          <entry key="project.open.time.6" value="5" />
-          <entry key="project.open.time.61" value="1" />
-          <entry key="project.open.time.7" value="7" />
-          <entry key="project.open.time.8" value="3" />
-          <entry key="project.open.time.9" value="4" />
-          <entry key="project.opened" value="87" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="cats" value="3" />
-          <entry key="html" value="4" />
-          <entry key="md" value="4" />
-          <entry key="module" value="2" />
-          <entry key="php" value="201" />
-          <entry key="products" value="2" />
-          <entry key="sql" value="7" />
-          <entry key="txt" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="Database Element" value="5" />
-          <entry key="HTML" value="4" />
-          <entry key="Markdown" value="4" />
-          <entry key="PHP" value="203" />
-          <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Scratch" value="7" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="html" value="1221" />
-          <entry key="md" value="8" />
-          <entry key="module" value="668" />
-          <entry key="php" value="47686" />
-          <entry key="sql" value="99" />
-          <entry key="txt" value="20" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="HTML" value="1237" />
-          <entry key="Markdown" value="8" />
-          <entry key="PHP" value="48338" />
-          <entry key="PLAIN_TEXT" value="20" />
-          <entry key="Scratch" value="99" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.php.new.class">
-        <counts>
-          <entry key="PHP Class.type" value="2" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/StudyBySelf/OOP/5.php">
+        <entry file="file://$PROJECT_DIR$/StudyBySelf/VideoLesson/64/1.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="897">
-              <caret line="39" column="5" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+            <state relative-caret-position="794">
+              <caret line="40" column="19" lean-forward="true" selection-start-line="40" selection-start-column="19" selection-end-line="40" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/StudyBySelf/OOP/6.php">
+        <entry file="file://$PROJECT_DIR$/StudyBySelf/shixun/head.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="667">
-              <caret line="34" column="20" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="20" />
-              <folding>
-                <element signature="e#6#86#0#PHP" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/StudyBySelf/OOP/7.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
-              <folding>
-                <element signature="e#6#86#0#PHP" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/StudyBySelf/OOP/8.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
-              <folding>
-                <element signature="e#6#86#0#PHP" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/StudyBySelf/OOP/9.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="18" column="22" lean-forward="true" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
-              <folding>
-                <element signature="e#6#86#0#PHP" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/StudyBySelf/OOP/10.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="327">
-              <caret line="26" column="32" lean-forward="true" selection-start-line="26" selection-start-column="32" selection-end-line="26" selection-end-column="32" />
-              <folding>
-                <element signature="e#6#86#0#PHP" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/StudyBySelf/OOP/11.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
-              <folding>
-                <element signature="e#6#86#0#PHP" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/StudyBySelf/OOP/12.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-              <folding>
-                <element signature="e#6#86#0#PHP" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/StudyBySelf/OOP/13.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
-              <folding>
-                <element signature="e#6#86#0#PHP" />
-              </folding>
+            <state relative-caret-position="1254">
+              <caret line="139" column="27" lean-forward="true" selection-start-line="139" selection-start-column="27" selection-end-line="139" selection-end-column="27" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/StudyBySelf/OOP/14.php">
+        <entry file="file://$PROJECT_DIR$/StudyBySelf/shixun/alter.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="520">
-              <caret line="31" column="28" lean-forward="true" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
+            <state relative-caret-position="518">
+              <caret line="44" column="7" lean-forward="true" selection-start-line="44" selection-start-column="7" selection-end-line="44" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/StudyBySelf/shixun/code.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="449">
+              <caret line="37" column="5" lean-forward="true" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -250,17 +99,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/StudyBySelf/conn.php" />
-        <option value="$PROJECT_DIR$/filter.php" />
-        <option value="$PROJECT_DIR$/index.php" />
-        <option value="$PROJECT_DIR$/conn1.php" />
-        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/321881ac-e3ca-4a8d-9bf5-0f2373f1cfa8/console.sql" />
-        <option value="$PROJECT_DIR$/SchoolLesson/mingri/conn.php" />
-        <option value="$PROJECT_DIR$/SchoolLesson/mingri/index_ok.php" />
-        <option value="$PROJECT_DIR$/SchoolLesson/mingri/modification.php" />
-        <option value="$PROJECT_DIR$/SchoolLesson/mingri/del.php" />
-        <option value="$PROJECT_DIR$/SchoolLesson/mingri/allDel.php" />
-        <option value="$PROJECT_DIR$/SchoolLesson/mingri/indent.php" />
         <option value="$PROJECT_DIR$/SchoolLesson/mingri/seedd.php" />
         <option value="$PROJECT_DIR$/SchoolLesson/mingri/deletedd.php" />
         <option value="$PROJECT_DIR$/SchoolLesson/mingri/browse.php" />
@@ -301,19 +139,23 @@
         <option value="$PROJECT_DIR$/StudyBySelf/OOP/12.php" />
         <option value="$PROJECT_DIR$/StudyBySelf/OOP/13.php" />
         <option value="$PROJECT_DIR$/StudyBySelf/OOP/14.php" />
+        <option value="$PROJECT_DIR$/StudyBySelf/shixun/updateImg_finish.php" />
+        <option value="$PROJECT_DIR$/StudyBySelf/shixun/admin/index.php" />
+        <option value="$PROJECT_DIR$/StudyBySelf/shixun/admin/welcome.php" />
+        <option value="$PROJECT_DIR$/StudyBySelf/shixun/articleSee.php" />
+        <option value="$PROJECT_DIR$/StudyBySelf/shixun/head.php" />
+        <option value="$PROJECT_DIR$/StudyBySelf/shixun/information.php" />
+        <option value="$PROJECT_DIR$/StudyBySelf/shixun/modifi.php" />
+        <option value="$PROJECT_DIR$/StudyBySelf/shixun/register.php" />
+        <option value="$PROJECT_DIR$/StudyBySelf/shixun/index.php" />
+        <option value="$PROJECT_DIR$/StudyBySelf/shixun/code.php" />
+        <option value="$PROJECT_DIR$/StudyBySelf/shixun/alter.php" />
       </list>
     </option>
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
-  <component name="ProjectFrameBounds">
-    <option name="x" value="947" />
-    <option name="y" value="5" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="790" />
     <option name="width" value="980" />
     <option name="height" value="1040" />
   </component>
@@ -325,6 +167,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -341,13 +184,12 @@
               <item name="PHP" type="b2602c69:ProjectViewProjectNode" />
               <item name="PHP" type="462c0819:PsiDirectoryNode" />
               <item name="StudyBySelf" type="462c0819:PsiDirectoryNode" />
-              <item name="OOP" type="462c0819:PsiDirectoryNode" />
+              <item name="shixun" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -355,7 +197,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="database.console.LAST_STATE" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../17011306" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
@@ -474,17 +316,24 @@
       <workItem from="1543918680736" duration="823000" />
       <workItem from="1544789020268" duration="5297000" />
       <workItem from="1544849225710" duration="4390000" />
+      <workItem from="1544998681505" duration="3303000" />
+      <workItem from="1545007069287" duration="9311000" />
+      <workItem from="1545049793203" duration="281000" />
+      <workItem from="1545084349717" duration="123000" />
+      <workItem from="1545091265450" duration="6736000" />
+      <workItem from="1545108902271" duration="4166000" />
+      <workItem from="1545134206330" duration="3886000" />
+      <workItem from="1545224808735" duration="2164000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="225623000" />
+    <option name="totallyTimeSpent" value="255593000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="758" y="4" width="784" height="832" extended-state="0" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3443526" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1541555" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -510,126 +359,67 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/SchoolLesson/mingri/index_ok.php">
+    <entry file="file://$PROJECT_DIR$/StudyBySelf/OOP/13.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="379">
-          <caret line="28" column="9" lean-forward="true" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+        <state relative-caret-position="345">
+          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SchoolLesson/mingri/delete.php">
+    <entry file="file://$PROJECT_DIR$/StudyBySelf/OOP/12.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+        <state relative-caret-position="253">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SchoolLesson/mingri/conn.php">
+    <entry file="file://$PROJECT_DIR$/StudyBySelf/OOP/11.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" column="49" selection-start-line="3" selection-start-column="49" selection-end-line="3" selection-end-column="49" />
+        <state relative-caret-position="276">
+          <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SchoolLesson/mingri/browse.php">
+    <entry file="file://$PROJECT_DIR$/StudyBySelf/OOP/10.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1702">
-          <caret line="74" column="58" selection-start-line="74" selection-start-column="58" selection-end-line="74" selection-end-column="58" />
+        <state relative-caret-position="327">
+          <caret line="26" column="32" selection-start-line="26" selection-start-column="32" selection-end-line="26" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SchoolLesson/mingri/update.php">
+    <entry file="file://$PROJECT_DIR$/StudyBySelf/OOP/9.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="19" column="31" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
+        <state relative-caret-position="299">
+          <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SchoolLesson/mingri/seedd.php">
+    <entry file="file://$PROJECT_DIR$/StudyBySelf/OOP/8.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="38" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
+        <state relative-caret-position="391">
+          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SchoolLesson/mingri/deletedd.php">
+    <entry file="file://$PROJECT_DIR$/StudyBySelf/OOP/7.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+        <state relative-caret-position="299">
+          <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SchoolLesson/mingri/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="51" column="45" selection-start-line="51" selection-start-column="45" selection-end-line="51" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SchoolLesson/mingri/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
-          <caret line="29" column="30" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SchoolLesson/mingri/footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SchoolLesson/mingri/deletes.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" column="57" selection-start-line="6" selection-start-column="57" selection-end-line="6" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/StudyBySelf/VideoLesson/52/1.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/StudyBySelf/VideoLesson/53/1.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="14" lean-forward="true" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/StudyBySelf/VideoLesson/52/2.php">
+    <entry file="file://$PROJECT_DIR$/StudyBySelf/OOP/6.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="603">
-          <caret line="36" column="22" lean-forward="true" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="22" />
+          <caret line="34" column="20" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/StudyBySelf/VideoLesson/54/test.txt">
+    <entry file="file://$PROJECT_DIR$/StudyBySelf/OOP/5.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="26" lean-forward="true" selection-start-column="26" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/StudyBySelf/VideoLesson/54/1.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/StudyBySelf/VideoLesson/55/1.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="373">
-          <caret line="66" column="5" lean-forward="true" selection-start-line="66" selection-start-column="5" selection-end-line="66" selection-end-column="5" />
+        <state relative-caret-position="603">
+          <caret line="39" column="5" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -640,70 +430,120 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/StudyBySelf/VideoLesson/56/upload_file.php">
+    <entry file="file://$PROJECT_DIR$/StudyBySelf/shixun/admin/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="552">
-          <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+        <state relative-caret-position="265">
+          <caret line="63" column="34" selection-start-line="63" selection-start-column="34" selection-end-line="63" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/StudyBySelf/VideoLesson/56/1.php">
+    <entry file="file://$PROJECT_DIR$/StudyBySelf/shixun/admin/welcome.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="31" column="9" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudyBySelf/shixun/register_finish.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="41" lean-forward="true" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudyBySelf/shixun/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="436">
+          <caret line="354" column="21" lean-forward="true" selection-start-line="354" selection-start-column="21" selection-end-line="354" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudyBySelf/shixun/articleSee.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2852">
+          <caret line="124" column="9" selection-start-line="124" selection-start-column="9" selection-end-line="124" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudyBySelf/shixun/information.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1633">
+          <caret line="71" column="18" selection-start-line="71" selection-start-column="18" selection-end-line="71" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudyBySelf/shixun/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="17" column="49" selection-start-line="17" selection-start-column="49" selection-end-line="17" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudyBySelf/shixun/modifi.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1702">
+          <caret line="74" column="13" selection-start-line="74" selection-start-column="13" selection-end-line="74" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudyBySelf/shixun/modifi_finish.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudyBySelf/shixun/quit.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/StudyBySelf/VideoLesson/57/1.php">
+    <entry file="file://$PROJECT_DIR$/StudyBySelf/shixun/register.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="10" column="21" lean-forward="true" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+        <state relative-caret-position="1633">
+          <caret line="71" column="21" selection-start-line="71" selection-start-column="21" selection-end-line="71" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SchoolLesson/php2/02note8.28.11.05.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SchoolLesson/php1/01note8.27.9.36.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="184">
-            <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/StudyBySelf/VideoLesson/58/FileUpload.php">
+    <entry file="file://$PROJECT_DIR$/StudyBySelf/shixun/updateImg.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="356">
-          <caret line="165" column="13" selection-start-line="165" selection-start-column="13" selection-end-line="165" selection-end-column="13" />
+        <state relative-caret-position="1012">
+          <caret line="44" column="70" selection-start-line="44" selection-start-column="70" selection-end-line="44" selection-end-column="70" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/StudyBySelf/VideoLesson/58/form.html">
+    <entry file="file://$PROJECT_DIR$/StudyBySelf/shixun/updateImg_finish.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+        <state relative-caret-position="322">
+          <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/StudyBySelf/VideoLesson/58/upload.php">
+    <entry file="file://$PROJECT_DIR$/StudyBySelf/VideoLesson/41.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudyBySelf/VideoLesson/42.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudyBySelf/VideoLesson/43.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudyBySelf/VideoLesson/45.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="46" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
-        </state>
+        <state relative-caret-position="-759" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spider/1.php">
+    <entry file="file://$PROJECT_DIR$/StudyBySelf/VideoLesson/50.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudyBySelf/conn.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudyBySelf/list.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bl.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+        <state relative-caret-position="598">
+          <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -714,185 +554,92 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/StudyBySelf/VideoLesson/36.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudyBySelf/VideoLesson/44/44.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudyBySelf/VideoLesson/47/1.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudyBySelf/VideoLesson/48/1.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudyBySelf/VideoLesson/52/1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudyBySelf/VideoLesson/52/2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudyBySelf/VideoLesson/53/1.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudyBySelf/VideoLesson/54/1.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudyBySelf/VideoLesson/55/1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-690" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudyBySelf/VideoLesson/56/1.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudyBySelf/VideoLesson/56/upload_file.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-149" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudyBySelf/VideoLesson/57/1.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudyBySelf/VideoLesson/58/upload.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/StudyBySelf/VideoLesson/62/1.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/SQLandPHP/demo.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SQLandPHP/page.class.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/StudyBySelf/shixun/addContent.php">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/StudyBySelf/VideoLesson/64/1.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="34" column="13" lean-forward="true" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+        <state relative-caret-position="794">
+          <caret line="40" column="19" lean-forward="true" selection-start-line="40" selection-start-column="19" selection-end-line="40" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blp.php" />
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/321881ac-e3ca-4a8d-9bf5-0f2373f1cfa8/console.sql">
+    <entry file="file://$PROJECT_DIR$/StudyBySelf/shixun/code.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="1" column="24" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
+        <state relative-caret-position="449">
+          <caret line="37" column="5" lean-forward="true" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SQLandPHP/10/demo.php">
+    <entry file="file://$PROJECT_DIR$/StudyBySelf/shixun/head.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="736">
-          <caret line="37" column="16" selection-start-line="37" selection-start-column="16" selection-end-line="37" selection-end-column="16" />
+        <state relative-caret-position="1254">
+          <caret line="139" column="27" lean-forward="true" selection-start-line="139" selection-start-column="27" selection-end-line="139" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/StudyBySelf/OOP/1.php">
+    <entry file="file://$PROJECT_DIR$/StudyBySelf/shixun/alter.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="9" column="12" lean-forward="true" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SQLandPHP/10/page.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1173">
-          <caret line="56" column="21" selection-start-line="56" selection-start-column="21" selection-end-line="56" selection-end-column="21" />
-          <folding>
-            <element signature="e#6#85#0#PHP" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bl.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="598">
-          <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/StudyBySelf/OOP/2.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/StudyBySelf/OOP/3.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/StudyBySelf/OOP/4.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
-          <caret line="23" column="1" selection-end-line="42" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/StudyBySelf/OOP/5.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="897">
-          <caret line="39" column="5" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/StudyBySelf/OOP/6.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="667">
-          <caret line="34" column="20" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="20" />
-          <folding>
-            <element signature="e#6#86#0#PHP" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/StudyBySelf/OOP/7.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
-          <folding>
-            <element signature="e#6#86#0#PHP" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/StudyBySelf/OOP/8.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
-          <folding>
-            <element signature="e#6#86#0#PHP" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/StudyBySelf/OOP/9.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="18" column="22" lean-forward="true" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
-          <folding>
-            <element signature="e#6#86#0#PHP" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/StudyBySelf/OOP/10.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="327">
-          <caret line="26" column="32" lean-forward="true" selection-start-line="26" selection-start-column="32" selection-end-line="26" selection-end-column="32" />
-          <folding>
-            <element signature="e#6#86#0#PHP" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/StudyBySelf/OOP/11.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
-          <folding>
-            <element signature="e#6#86#0#PHP" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/StudyBySelf/OOP/12.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <element signature="e#6#86#0#PHP" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/StudyBySelf/OOP/13.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
-          <folding>
-            <element signature="e#6#86#0#PHP" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/StudyBySelf/OOP/14.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
-          <caret line="31" column="28" lean-forward="true" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
+        <state relative-caret-position="518">
+          <caret line="44" column="7" lean-forward="true" selection-start-line="44" selection-start-column="7" selection-end-line="44" selection-end-column="7" />
         </state>
       </provider>
     </entry>

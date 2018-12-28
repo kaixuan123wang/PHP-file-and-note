@@ -11,11 +11,18 @@ if(isset($_POST["updateImg_sbt"])){
         $hz = $arr[count($arr)-1];
         $filepath="./images/";
         $randname=$uid.".".$hz;
+        $allName = $filepath.$randname;
         $types = " jpg|jpeg|png|gif|bmp";
         if(stripos($types,$hz)){
             if(is_uploaded_file($_FILES["file"]["tmp_name"])){
                 if(move_uploaded_file($_FILES["file"]["tmp_name"], $filepath.$randname)){
-                    echo "<script>alert('头像保存成功');location.href='updateImg.php';</script>";
+                    $sql = "update touristUser set image = '$allName' where uid = $uid";
+                    $result = mysql_query($sql);
+                    if($result){
+                        echo "<script>alert('头像保存成功');location.href='updateImg.php';</script>";
+                    }else{
+                        echo "<script>alert('头像保存失败');location.href='updateImg.php';</script>";
+                    }
                 }else{
                     echo "<script>alert('头像保存失败，请检查网络');location.href='updateImg.php';</script>";
                 }

@@ -1,3 +1,6 @@
+<?php 
+session_start();
+?>
 <!doctype html>
 <html lang="en">
 <head>
@@ -5,165 +8,20 @@
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta http-equiv="keywords" content="IT,论坛,程序员,前端,后端">
+    <meta name="description" content="此网站主要用于作品展示，实时更新最新作品，包括HTML代码、CSS代码、JavaScript代码、PHP代码、H5+Css3代码及网站原型，供本行业人士参考借鉴，以达到与本行业其他人员更加亲近的交流与分享的目的。" />
     <title>IT之猿</title>
     <link href="admin/themes/default/css/umeditor.css" type="text/css" rel="stylesheet">
+    <link rel="icon" href="images/logo.png" type="image/png">
     <script type="text/javascript" src="admin/third-party/jquery.min.js"></script>
     <script type="text/javascript" charset="utf-8" src="admin/umeditor.config.js"></script>
     <script type="text/javascript" charset="utf-8" src="admin/umeditor.min.js"></script>
     <script type="text/javascript" src="admin/lang/zh-cn/zh-cn.js"></script>
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-        }
-
-        a {
-            text-decoration: none;
-            color: #000;
-            font-size: 1rem;
-        }
-
-        .nav {
-            width: 100%;
-        }
-
-        .nav ul {
-            display: flex;
-            flex-flow: row nowrap;
-            justify-content: center;
-            margin-left: 2%;
-            list-style: none;
-        }
-
-        .nav ul li {
-            width: 16%;
-            text-align: center;
-        }
-
-        .nav ul li a {
-            display: inline-block;
-            width: 100%;
-            height: 50px;
-            line-height: 50px;
-            border: 1px solid #000;
-        }
-
-        .content .list li, .content .title {
-            display: flex;
-            flex-flow: row nowrap;
-            justify-content: space-between;
-            width: 96%;
-            height: 50px;
-            border: 1px solid #000;
-            margin-left: 2%;
-        }
-
-        .content .title {
-            height: 30px;
-        }
-
-        .content .title div {
-            width: 50%;
-            height: 30px;
-            line-height: 30px;
-        }
-
-        .content .title .left em , .content .list li .left a span{
-            display: inline-block;
-            width: 85px;
-            text-align: center;
-        }
-
-        .content .title .right {
-            display: flex;
-            flex-flow: row nowrap;
-            justify-content: space-around;
-        }
-
-        .content .title .right em {
-            width: 100px;
-            height: 30px;
-            text-align: center;
-        }
-
-        .content .list li div {
-            width: 50%;
-            height: 50px;
-        }
-
-        .content .list li .left {
-            line-height: 50px;
-        }
-
-        .content .left li .left a {
-            margin-left: 10px;
-        }
-
-        .content .list li .right {
-            display: flex;
-            flex-flow: row nowrap;
-            justify-content: space-around;
-        }
-
-        .content .list li .right em {
-            display: flex;
-            flex-flow: column nowrap;
-            justify-content: center;
-            width: 100px;
-            height: 50px;
-            text-align: center;
-        }
-        .content .list li .right em time{
-            font-size: 10px;
-            margin-top: 5px;
-        }
-
-        .next {
-            display: flex;
-            flex-flow: row nowrap;
-            justify-content: space-between;
-            width: 96%;
-            margin: 10px 2%;
-        }
-
-        .next .right ul {
-            display: flex;
-            flex-flow: row nowrap;
-            justify-content: space-around;
-            list-style: none;
-        }
-
-        .next .right ul li {
-            border: 1px solid #000;
-            min-width: 50px;
-            text-align: center;
-            padding: 0 5px;
-        }
-        .fatie{
-            width: 96%;
-            margin-left: 2%;
-        }
-        .header{
-            display: flex;
-            flex-flow: row nowrap;
-            justify-content: space-between;
-            margin-bottom: 10px;
-        }
-    </style>
+    <link rel="stylesheet" href="css/index.css">
 </head>
 <body>
 <?php include ("head.php");?>
 <div class="article">
-    <div class="nav">
-        <ul>
-            <li><a href="index.php?column=question">问题求助</a></li>
-            <li><a href="index.php?column=exchange">技术交流</a></li>
-            <li><a href="index.php?column=show">作品展示</a></li>
-            <li><a href="index.php?column=share">资源分享</a></li>
-            <li><a href="index.php?column=course">系列教程</a></li>
-            <li><a href="index.php?column=note">学习笔记</a></li>
-        </ul>
-    </div>
     <div class="content">
         <div class="title">
             <div class="left">
@@ -181,6 +39,7 @@
                 include ("admin/conn.php");
                 $sql = "select * from notice";
                 $result = mysql_query($sql);
+                $count = mysql_num_rows($result);
                 while($arr = mysql_fetch_array($result)){
                     $id = $arr["id"];
                     $title = $arr["title"];
@@ -189,7 +48,7 @@
             ?>
             <li>
                 <div class="left">
-                    <a href="#"><img src="images/ann_icon.gif" alt="公告"><span>公告 :</span><?php echo $title;?></a>
+                    <a href=<?php echo "noticeSee.php?id=$id"?>><img src="images/ann_icon.gif" alt="公告"><span>公告 :</span><?php echo $title;?></a>
                 </div>
                 <div class="right">
                     <em>
@@ -207,13 +66,25 @@
             </li>
             <?php }?>
             <?php
-            if(isset($_GET["column"]) and $_GET["column"] != "all"){
-                $column = $_GET["column"];
+            $pageShow = 15;
+            (isset($_GET["column"]))?$column = $_GET["column"]:$column = "all";
+            if($column != "all"){
                 $sql = "select * from article where type = '$column'";
+                $changeType = " where type = '$column '";
+                
             }else{
-                $column = "all";
                 $sql = "select * from article";
+                $changeType = "";
             }
+            $result = mysql_query($sql);
+            $count += mysql_num_rows($result);
+            $pageNum = ceil($count/$pageShow);
+            (isset($_GET["pages"]))?$pages = $_GET["pages"]:$pages = 1;
+            if($pageNum<$pages){
+                echo "<script>location.href='index.php?column=".$column."&pages=".$pageNum."';</script>";
+            }
+            $startNum = ($pages-1)*$pageShow;
+            $sql = "select * from article " .$changeType." order by id desc limit $startNum,$pageShow";
             $result = mysql_query($sql);
             if(mysql_num_rows($result) > 0){
             while($arr = mysql_fetch_array($result)){
@@ -232,7 +103,7 @@
                 $obsNum = mysql_num_rows($result2);
                 if($obsNum > 0){
                     $arr1 = mysql_fetch_array($result2);
-                    $nameId = $arr1["observerid"];
+                    $nameId = $arr1["observerId"];
                     $obsTime = $arr1["time"];
                     $sql = "select * from touristUser where uid = '$nameId'";
                     $result3 = mysql_query($sql);
@@ -246,7 +117,7 @@
                 ?>
                 <li>
                     <div class="left">
-                        <a href="#"><img src="images/ann_icon.gif" alt="公告"><span>
+                        <a href=<?php echo "articleSee.php?id=$id"?>><img src="images/folder_common.gif" alt="类型"><span>
                                 <?php
                                     switch ($type){
                                         case $type == "question":
@@ -273,15 +144,15 @@
                     </div>
                     <div class="right">
                         <em>
-                            <a href="#"><?php echo $actor;?></a>
+                            <a href=<?php echo "information.php?id=$actorId";?>><?php echo $actor;?></a>
                             <time><?php echo $time;?></time>
                         </em>
                         <em>
-                            <a href="#"><?php echo $obsNum;?></a>
+                            <a href=<?php echo "articleSee.php?id=$id";?>><?php echo $obsNum;?></a>
                             <span><?php echo $seeNum;?></span>
                         </em>
                         <em>
-                            <a href="#"><?php echo $name;?></a>
+                            <a href=<?php echo "articleSee.php?id=$id"?>><?php echo $name;?></a>
                             <time><?php echo $obsTime;?></time>
                         </em>
                     </div>
@@ -292,29 +163,43 @@
     <div class="foot">
         <div class="next">
             <div class="left">
-                <a href="#" onclick="content.submit();">
+                <a href="javascript:document:upload.submit();" onclick="return chkFrm();">
                     <img src="images/pn_post.png" alt="发帖">
                 </a>
             </div>
             <div class="right">
                 <ul>
                     <li><a href="javascript:history.back()">返回</a></li>
-                    <li><a href="#">1</a></li>
-                    <li><a href="#">2</a></li>
-                    <li><a href="#">3</a></li>
-                    <li><a href="#">4</a></li>
-                    <li><a href="#">5</a></li>
-                    <li><a href="#">.../45</a></li>
+                    <?php
+                    if($pageNum > 5){
+                        for($i = 1;$i<=5;$i++){
+                    ?>
+                    <li onclick="window.location='index.php?column=<?php echo $column;?>&pages=<?php echo $i;?>';"><?php echo $i;?></li>
+                <?php }?>
+                    <li onclick="window.location='index.php?column=<?php echo $column;?>&pages=<?php echo $pageNum;?>'">.../<?php echo $pageNum;?></li>
                     <li>
                             <input type="text" title="输入页数按下回车键跳转" name="pages" onkeydown="if(event.keyCode == 13){window.location='index.php?column=<?php echo $column;?>&pages='+this.value;}">
-                            /45页
+                            /<?php echo $pageNum;?>页
                     </li>
-                    <li><a href="#">下一页</a></li>
+                    <?php
+                    }else{
+                        for($i=1;$i<=$pageNum;$i++){
+                        ?>
+                            <li onclick="window.location='index.php?column=<?php echo $column;?>&pages=<?php echo $i;?>';"><?php echo $i?></li>
+                    <?php 
+                    }}
+                        $nextPage = $pages+1;
+                        if($nextPage<=$pageNum){
+                    ?>
+                    <li>
+                        <a href= <?php  echo "index.php?column=".$column."&pages=".$nextPage; ?> >下一页</a>
+                    </li>
+                <?php }?>
                 </ul>
             </div>
         </div>
         <div class="fatie">
-            <form action="addContent.php" method="post" name="content">
+            <form action="addContent.php" method="post" name="upload" id="contents">
                 <div class="header">
                     <div class="left">
                         <label for="type">文章类型：</label>
@@ -331,10 +216,10 @@
                        <label for="title">
                            文章标题：
                        </label>
-                       <input type="text" name="title" id="title" required>
+                       <input type="text" name="title" id="title" maxlength="20">
                    </div>
                 </div>
-                <script type="text/plain" id="myEditor" name="content" style="width:100%;height:240px;">
+                <script type="text/plain" id="myEditor" name="content" style="width:100%;height:18vw;min-height: 200px">
                     <p>在此输入文章内容</p>
                 </script>
             </form>
@@ -343,6 +228,17 @@
     <script type = "text/javascript">
         var um = UM.getEditor('myEditor');
      </script>
-
+                <script>
+                    function chkFrm(){
+                        if(upload.title.value == ""){
+                            alert("标题不能为空！");
+                            return false;
+                        }
+                        if(upload.content.value == ""){
+                            alert("文章内容不能为空！");
+                            return false;
+                        }
+                    }
+                </script>
 </body>
 </html>

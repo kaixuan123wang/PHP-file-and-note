@@ -12,7 +12,7 @@ session_start();
             $_SESSION["uid"] = $arr["uid"];
             echo "<script>alert('登录成功！');location.href='index.php';</script>";
         }else{
-            echo "您输入的用户名或密码错误";
+            echo "<script>alert('您输入的用户名或密码错误');location.href='index.php';</script>";
         }
     }else{
         echo "<script>location.href='index.php';</script>";

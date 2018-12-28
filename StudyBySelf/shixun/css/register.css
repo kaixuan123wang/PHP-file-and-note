@@ -1,0 +1,30 @@
+*{
+            margin: 0;
+            padding: 0;
+        }
+        .all li{
+            list-style: none;
+            margin:10px auto;
+            text-align: center;
+        }
+        .all{
+            width: 100vw;
+            margin:5px auto;
+            border:1px solid #000;
+        }
+        .all h2{
+            text-align: center;
+            background: #0c0;
+            color:#fff;
+        }
+        .all label{
+            display: inline-block;
+            width: 100px;
+            text-align: right;
+        }
+        .all #code{
+            width: 50px;
+        }
+        .all .code{
+            vertical-align:bottom;
+        }
